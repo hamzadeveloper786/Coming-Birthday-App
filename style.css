@@ -1,0 +1,32 @@
+body{
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: wheat;
+}
+div.form{
+    border: 3px solid skyblue;
+}
+h1{
+    color: blue;
+    border: 3px solid ghostwhite;
+}
+#Month{
+    margin-top: 1em;
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+}
+/**button{
+    margin-top: 1em;
+    margin-left: 0.5em;
+    padding: 1em;
+    margin-bottom: 1em;
+}*/
+div.footer{
+    margin-top: 2em;
+    text-align: center;
+    border: 3px solid cadetblue;
+    border-style: dashed;
+}
+footer{
+    text-align: center;
+}
